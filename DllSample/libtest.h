@@ -71,6 +71,8 @@ extern "C" {
 
 extern int cgoRandom(int p0);
 
+extern void sayHello();
+
 #ifdef __cplusplus
 }
 #endif
